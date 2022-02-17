@@ -1,4 +1,4 @@
-# project1
+# project1: Trajectory Data Analysis
 part1_algorithms.py: fours algorithms for section 3.1. 
 
 part1_full.py: full codes for part1, including impelements and experiments for 3.1 and 3.2
